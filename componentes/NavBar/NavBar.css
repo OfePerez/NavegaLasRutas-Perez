@@ -11,6 +11,8 @@ li{
     cursor: pointer;
     color: #7A6666;
     font-size: 1.3rem;
+    text-decoration: none;
+    color: inherit;
 }
 h1{
     margin-left: 50px;
