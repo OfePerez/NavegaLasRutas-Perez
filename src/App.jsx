@@ -1,8 +1,8 @@
 import React from 'react'
-import NavBar from '../componentes/NavBar/NavBar'
-import ItemListContainer from '../componentes/ItemListContainer/ItemListContainer'
-import ItemCount from '../componentes/ItemCount/ItemCount'
-import ItemDetailContainer from '../componentes/ItemDetailContainer/ItemDetailContainer'
+import NavBar from '../src/componentes/NavBar/NavBar'
+import ItemListContainer from '../src/componentes/ItemListContainer/ItemListContainer'
+import ItemCount from '../src/componentes/ItemCount/ItemCount'
+import ItemDetailContainer from '../src/componentes/ItemDetailContainer/ItemDetailContainer'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 
